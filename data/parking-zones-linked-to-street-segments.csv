@@ -1,0 +1,799 @@
+﻿ParkingZone,OnStreet,StreetFrom,StreetTo,Segment_ID
+7028,Cardigan Street,Argyle Place North,Grattan Street,20512
+7047,Grattan Street,Cardigan Street,Swanston Street,22506
+7104,Queensberry Street,Lygon Street,Cardigan Street,22499
+7151,Royal Parade,MacArthur Road,Leonard Street,22434
+7154,Adderley Street,La Trobe Street,Jeffcott Street,21504
+7156,Aquitania Way,Caravel Lane,Newquay Promenade,22787
+7173,Bourke Street,Harbour Esplanade,Enterprize Way,22801
+7194,Enterprize Way,Bourke Street,,22898
+7220,Pearl River Road,Footscray Road,Docklands Drive,23224
+7227,Village Street,Bourke Street,Collins Street,22941
+7262,Lansdowne Street,Wellington Parade,St Andrews Place,21859
+7296,Victoria Parade,Eades Street,Lansdowne Street,21595
+7328,Birdwood Avenue,Dallas Brooks Drive,Domain Road,22706
+7358,Collins Street,Exhibition Street,Russell Street,20108
+7366,Collins Street,Spring Street,Exhibition Street,20106
+7371,Domain Road,Domain Road,Domain Street,22224
+7376,Domain Road,St Kilda Road,Dallas Brooks Drive,22708
+7390,Elizabeth Street,Little La Trobe Street,A'Beckett Street,22651
+7399,Exhibition Street,Collins Street,Little Collins Street,20140
+7444,Francis Street,King Street,Spencer Street,20433
+7536,Little Collins Street,Exhibition Street,Russell Street,20093
+7539,Little Lonsdale Street,Elizabeth Street,Queen Street,20042
+7562,Lonsdale Street,Queen Street,William Street,20011
+7582,Market Street,Flinders Lane,Collins Street,20180
+7597,Queen Street,Flinders Street,Flinders Lane,20170
+7606,Queen Street,Little Bourke Street,Lonsdale Street,20175
+7607,Queen Street,Little Collins Street,Bourke Street,20173
+7625,Russell Street,Bourke Street,Little Bourke Street,20150
+7714,Capel Street,Victoria Street,Queensberry Street,20945
+7787,Grattan Street,Swanston Street,Bouverie Street,20847
+7797,Royal Parade,Grattan Street,Story Street,22514
+7869,Moray Street,Hancock Street,Westgate Freeway,22036
+7887,St Kilda Road,Anzac Avenue,Coventry Street,22704
+7948,La Trobe Street,William Street,King Street,20028
+7990,William Street,A'Beckett Street,Franklin Street,21529
+7004,Argyle Place South,Lygon Street,Cardigan Street,20751
+7018,Bouverie Street,Pelham Street,Lincoln Square North,22504
+7044,Cemetery Road East,College Crescent,Lygon Street,20773
+7072,Lygon Street,Argyle Place North,Grattan Street,20530
+7101,Queensberry Street,Bouverie Street,Leicester Street,20868
+7121,Swanston Street,Queensberry Street,Lincoln Square South,20484
+7154,Adderley Street,Jeffcott Street,Batman Street,21503
+7159,Aurora Lane,Bourke Street,Collins Street,22822
+7237,Albert Street,Clarendon Street,Eades Street,20898
+7250,Clarendon Street,Grey Street,Albert Street,21860
+7273,Spring Street,Little Lonsdale Street,Victoria Parade,21847
+7275,Spring Street,Little Lonsdale Street,Victoria Parade,21847
+7290,Victoria Parade,Clarendon Street,Eades Street,21594
+7330,Boathouse Drive,St Kilda Road,Alexandra Avenue,22188
+7333,Bourke Street,Elizabeth Street,Queen Street,20084
+7345,Bourke Street,Russell Street,Swanston Street,20080
+7370,Domain Road,Dallas Brooks Drive,Domain Street,22223
+7386,Elizabeth Street,Flemington Road,Grattan Street,21551
+7394,Elizabeth Street,Victoria Street,Queensberry Street,21113
+7395,Exhibition Street,Bourke Street,Little Bourke Street,20142
+7433,Flinders Street,King Street,Spencer Street,20224
+7469,High Street,St Kilda Road,Punt Road,22479
+7518,Little Bourke Street,William Street,King Street,20061
+7584,Moubray Street,St Kilda Road,Punt Road,22311
+7605,Queen Street,Little Bourke Street,Lonsdale Street,20175
+7636,Russell Street,Flinders Lane,Collins Street,20147
+7648,Spring Street,Flinders Street,Flinders Lane,20196
+7663,St Kilda Road,Southbank Boulevard,Grant Street,22466
+7670,St Kilda Road,Bromby Street,Toorak Road,22470
+7682,Victoria Street,La Trobe Street,Rathdowne Street,21599
+7712,Capel Street,Victoria Street,Queensberry Street,20945
+7736,Leveson Street,Queensberry Street,Arden Street,21096
+7740,Leveson Street,Victoria Street,Queensberry Street,20980
+7776,Royal Parade,Royal Parade,Degraves Street,22606
+7797,Royal Parade,Royal Parade,Story Street,22513
+7819,City Road,Power Street,Balston Street,22050
+7835,Dodds Street,Miles Street,Coventry Street,22110
+7889,Sturt Street,Southbank Boulevard,Grant Street,22121
+7923,Capel Street,William Street,Victoria Street,21392
+7928,Dudley Street,King Street,Spencer Street,21413
+7940,King Street,La Trobe Street,Jeffcott Street,21507
+7943,King Street,La Trobe Street,Jeffcott Street,21507
+7974,Batman Street,Spencer Street,King Street,21516
+7986,William Street,Dudley Street,Walsh Street,21404
+7972,Spencer Street,Batman Street,Dudley Street,21486
+7015,Bouverie Street,Lincoln Square North,Grattan Street,20468
+7196,Fishplate Lane,Batmans Hill Drive,Village Street,22942
+7232,Waterfront Way,Footscray Road,Docklands Drive,23225
+7244,Albert Street,Nicholson Street,Gisborne Street,20889
+7246,Albert Street,Simpson Street,Powlett Street,21580
+7270,Powlett Street,Gipps Street,Grey Street,21884
+7300,Wellington Parade South,Wellington Parade South,Wellington Crescent,22629
+7301,Wellington Parade South,Wellington Crescent,Flinders Street,22630
+7334,Bourke Street,Exhibition Street,Russell Street,20078
+7350,Church Street,Bourke Street,Little Collins Street,20416
+7360,Collins Street,Spring Street,Exhibition Street,20106
+7363,Collins Street,Exhibition Street,Russell Street,20108
+7375,Domain Road,Dallas Brooks Drive,Domain Street,22223
+7380,Elizabeth Street,Little Collins Street,Bourke Street,20165
+7385,Elizabeth Street,A'Beckett Street,Franklin Street,21639
+7400,Exhibition Street,Collins Street,Little Collins Street,20140
+7401,Exhibition Street,Flinders Lane,Collins Street,20139
+7423,Flinders Lane,Spring Street,Exhibition Street,20121
+7437,Flinders Street,King Street,Spencer Street,20224
+7454,Flinders Street,Spring Street,Exhibition Street,20208
+7492,La Trobe Street,Elizabeth Street,Queen Street,20024
+7522,Little Bourke Street,Queen Street,William Street,20059
+7555,Little Lonsdale Street,King Street,Spencer Street,20048
+7559,Little Bourke Street,Spring Street,Exhibition Street,20049
+7575,Lonsdale Street,William Street,King Street,20013
+7595,Queen Street,Collins Street,Little Collins Street,20172
+7602,Queen Street,Franklin Street,Therry Street,21630
+7617,Queen Street,Therry Street,Victoria Street,23247
+7632,Russell Street,MacKenzie Street,Victoria Street,21615
+7641,Russell Street,La Trobe Street,MacKenzie Street,21616
+7664,St Kilda Road,Moubray Street,High Street,22478
+7683,Victoria Street,Lygon Street,Cardigan Street,21605
+7688,Wellington Parade South,Wellington Crescent,Flinders Street,22630
+7705,Wills Street,La Trobe Street,A'Beckett Street,21521
+7733,Errol Street,Victoria Street,Queensberry Street,20992
+7753,Victoria Street,Errol Street,Curzon Street,20994
+7776,College Crescent,Royal Parade,Cemetery Road West,22599
+7785,Flemington Road,Murphy Street,Harker Street,22312
+7804,The Avenue,Ievers Street,Park Street,22392
+7832,Dodds Street,Miles Street,Grant Street,22462
+7858,Miles Street,Sturt Street,Moore Street,22120
+7887,St Kilda Road,Wadey Street,Anzac Avenue,22702
+7904,Wells Street,Grant Street,Miles Street,22106
+7915,Batman Street,Spencer Street,King Street,21516
+7935,Jeffcott Street,Adderley Street,Spencer Street,21501
+7950,Railway Place,Rosslyn Street,Stanley Street,21541
+7964,Rosslyn Street,Adderley Street,Spencer Street,21479
+7029,Cardigan Street,Pelham Street,Argyle Place North,20509
+7031,Cardigan Street,Cardigan Street,Argyle Place North,20511
+7031,Cardigan Street,Pelham Street,Argyle Place North,20509
+7034,Cardigan Street,Grattan Street,Faraday Street,20514
+7035,Cardigan Street,Victoria Street,Queensberry Street,20504
+7043,Cardigan Street,Victoria Street,Queensberry Street,20504
+7044,Faraday Street,Cardigan Street,Swanston Street,20812
+7069,Lygon Street,Grattan Street,Faraday Street,20532
+7081,Nicholson Street,Victoria Street,Carlton Street,22501
+7113,Rathdowne Street,Queensberry Street,Pelham Street,20556
+7119,Swanston Street,Lincoln Square North,Grattan Street,20488
+7111,Rathdowne Street,Pelham Street,Grattan Street,20558
+7134,Victoria Street,Cardigan Street,Swanston Street,21607
+7135,Victoria Street,Swanston Street,Bouverie Street,21623
+7157,Caravel Lane,Rakaia Way,Aquitania Way,22781
+7180,Docklands Drive,Pearl River Road,Docklands Drive,23256
+7190,Collins Street,Swanston Street,Elizabeth Street,20112
+7195,Docklands Drive,Harbour Esplanade,Saint Mangos Lane,22439
+7204,Harbour Esplanade,McCrae Street,Collins Street,22954
+7209,Leven Avenue,Pearl River Road,Wattle Road,23277
+7219,Siddeley Street,Spencer Street,Wurundjeri Way,22445
+7239,Albert Street,Lansdowne Street,Eades Street,20893
+7245,Albert Street,Nicholson Street,Gisborne Street,20889
+7251,Eades Street,Victoria Parade,Albert Street,20897
+7267,Seafarer Lane,Collins Street,Australian Wharf,23343
+7269,Parliament Place,St Andrews Place,Gisborne Street,21852
+7274,Spring Street,Little Lonsdale Street,Victoria Parade,21847
+7282,Brentani Way,Village Street,Georgiana Street,22895
+7287,Victoria Parade,Hoddle Street,Simpson Street,22000
+7298,Wellington Parade,Clarendon Street,Jolimont Road,21963
+7299,Wellington Parade,Lansdowne Street,Spring Street,21967
+7305,Wellington Parade South,Charles Street,Agnes Street,21989
+7306,A'Beckett Street,Elizabeth Street,Queen Street,21649
+7309,A'Beckett Street,Wills Street,Queen Street,21524
+7339,Bourke Street,Queen Street,William Street,20086
+7371,Domain Road,Dallas Brooks Drive,Domain Street,22223
+7379,Elizabeth Street,Little Bourke Street,Lonsdale Street,20167
+7381,Elizabeth Street,Flinders Lane,Collins Street,20163
+7408,Exhibition Street,La Trobe Street,Victoria Street,21600
+7434,Flinders Street,Elizabeth Street,Queen Street,20216
+7425,Flinders Lane,William Street,King Street,20135
+7468,High Street,St Kilda Road,Punt Road,22479
+7476,King Street,Flinders Lane,Collins Street,20189
+7482,King Street,Little Bourke Street,Lonsdale Street,20193
+7508,Little Collins Street,Russell Street,Swanston Street,20095
+7514,Little Bourke Street,Swanston Street,Elizabeth Street,20055
+7520,Elizabeth Street,Victoria Street,Queensberry Street,21113
+7532,Little Collins Street,William Street,King Street,20103
+7550,Little Lonsdale Street,Russell Street,Swanston Street,20038
+7554,Lonsdale Street,Elizabeth Street,Queen Street,20009
+7594,Queen Street,Bourke Street,Little Bourke Street,20174
+7596,Queen Street,Flinders Lane,Collins Street,20171
+7599,Queen Street,Flinders Street,Flinders Lane,20170
+7603,Lonsdale Street,Swanston Street,Elizabeth Street,20007
+7616,Queen Street,Therry Street,Victoria Street,23247
+7614,Queen Street,Little Lonsdale Street,La Trobe Street,20177
+7634,Russell Street,Little Bourke Street,Lonsdale Street,20151
+7645,Spring Street,Little Collins Street,Bourke Street,20202
+7649,Spring Street,Lonsdale Street,Little Lonsdale Street,21848
+7651,St Kilda Road,Wadey Street,Anzac Avenue,22702
+7666,St Kilda Road,Slater Street,Armadale Street,22474
+7657,St Kilda Road,Armadale Street,Commercial Road,22476
+7669,St Kilda Road,Toorak Road,Slater Street,22472
+7680,Victoria Street,Cardigan Street,Swanston Street,21607
+7711,Bedford Street,Courtney Street,Peel Street,21120
+7716,Cobden Street,Princess Street,Queensberry Street,20939
+7717,Chetwynd Street,Victoria Street,Queensberry Street,20964
+7719,Peel Street,Queensberry Street,Elizabeth Street,21117
+7783,Flemington Road,Gatehouse Street,Abbotsford Street,21257
+7786,Gatehouse Street,Gatehouse Street,Story Street,22338
+7798,Royal Parade,Gatehouse Street,MacArthur Road,22438
+7807,The Avenue,MacArthur Road,Gatehouse Street,22377
+7830,Coventry Street,St Kilda Road,Wells Street,22103
+7846,Grant Street,St Kilda Road,Wells Street,22082
+7861,Miles Street,Wells Street,Dodds Street,22107
+7857,Kavanagh Street,Sturt Street,Southbank Boulevard,22070
+7864,Moore Street,Southbank Boulevard,Southern Link Road,22078
+7883,St Kilda Road,St Kilda Road,Anzac Avenue,22703
+7890,Sturt Street,Southbank Boulevard,Grant Street,22121
+7894,Sturt Street,Sturt Street,Grant Street,22877
+7895,Sturt Street,Grant Street,Miles Street,22767
+7902,Wells Street,Grant Street,Miles Street,22106
+7899,Wells Street,Coventry Street,Dorcas Street,22098
+7911,Toorak Road,Leopold Street,Marne Street,22217
+7911,Toorak Road,Marne Street,Walsh Street,22219
+7914,Adderley Street,La Trobe Street,Jeffcott Street,21504
+7924,Chetwynd Street,Stanley Street,Victoria Street,22661
+7926,Batman Street,Spencer Street,King Street,21516
+7930,Dudley Street,Adderley Street,Spencer Street,21483
+7945,King Street,Rosslyn Street,Stanley Street,21427
+7945,King Street,Stanley Street,Roden Street,21375
+7954,Rosslyn Street,Railway Place,Adderley Street,21490
+7965,Rosslyn Street,Adderley Street,Spencer Street,21479
+7977,Stanley Street,Adderley Street,Spencer Street,21475
+7007,Bouverie Street,Queensberry Street,Lincoln Square South,20464
+7023,Leicester Street,Berkeley Street,Queensberry Street,20455
+7030,Cardigan Street,Argyle Place South,Pelham Street,20508
+7049,Kay Street,Canning Street,Rathdowne Street,20573
+7066,Lygon Street,Argyle Place South,Pelham Street,20526
+7066,Lygon Street,Queensberry Street,Argyle Place South,20524
+7078,MacArthur Place North,Canning Street,Rathdowne Street,20670
+7074,Lygon Street,Lytton Street,Princes Street,20540
+7095,Queensberry Street,Cardigan Street,Swanston Street,22500
+7128,Victoria Street,Rathdowne Street,Drummond Street,21601
+7140,Cemetery Road West,Royal Parade,College Crescent,22375
+7151,Royal Parade,Royal Parade,Leonard Street,22433
+7156,Aquitania Way,Docklands Drive,Caravel Lane,22786
+7167,Bourke Street,Cumberland Street,Collins Street,23293
+7178,Bourke Street,Enterprize Way,Cumberland Street,22913
+7186,Collins Street,Merchant Street,Bourke Street,23311
+7184,Collins Street,Harbour Esplanade,Navigation Drive,23308
+7182,Adela Lane,Collins Street,,23342
+7191,Docklands Drive,Saint Mangos Lane,Waterfront Way,23252
+7202,Harbour Esplanade,Collins Street,Bourke Street,22448
+7200,Georgiana Street,McCrae Street,Collins Street,22896
+7207,Import Lane,Bourke Street,Collins Street,23062
+7214,Navigation Drive,Bourke Street,Collins Street,23033
+7231,Merchant Street,Bourke Street,Collins Street,23151
+7250,Clarendon Street,George Street,Hotham Street,21932
+7241,Albert Street,Morrison Place,Lansdowne Street,20891
+7250,Clarendon Street,Hotham Street,Gipps Street,21902
+7255,Grey Street,Simpson Street,Powlett Street,21866
+7266,Nicholson Street,Albert Street,Victoria Street,21554
+7301,Wellington Parade South,Jolimont Road,Wellington Crescent,21968
+7355,Collins Street,Queen Street,Market Street,20116
+7367,Commercial Road,St Kilda Road,Punt Road,22308
+7376,Domain Road,Dallas Brooks Drive,Domain Street,22223
+7377,Downie Street,Flinders Street,Flinders Lane,20431
+7406,Exhibition Street,Little Lonsdale Street,La Trobe Street,20145
+7428,Flinders Lane,Spring Street,Exhibition Street,20121
+7441,Francis Street,King Street,Spencer Street,20433
+7442,Cardigan Street,Queensberry Street,Argyle Place South,20506
+7461,Elizabeth Street,A'Beckett Street,Franklin Street,21639
+7528,Little Collins Street,Queen Street,William Street,20101
+7529,Little Collins Street,Exhibition Street,Russell Street,20093
+7538,Little Bourke Street,Spring Street,Exhibition Street,20049
+7547,Little Lonsdale Street,William Street,King Street,20046
+7541,Little Lonsdale Street,Spring Street,Exhibition Street,20034
+7549,Little Lonsdale Street,Russell Street,Swanston Street,20038
+7561,Little Lonsdale Street,Spring Street,Exhibition Street,20034
+7580,MacKenzie Street,Victoria Street,Russell Street,21609
+7587,Moubray Street,St Kilda Road,Punt Road,22311
+7588,O'Connell Street,Queensberry Street,Peel Street,21116
+7578,Lonsdale Street,William Street,King Street,20013
+7604,Queen Street,La Trobe Street,A'Beckett Street,21523
+7600,Queen Street,A'Beckett Street,Franklin Street,21636
+7615,Queen Street,Little Lonsdale Street,La Trobe Street,20177
+7638,Russell Street,Little Collins Street,Bourke Street,20149
+7643,Spencer Street,Flinders Street,Flinders Lane,20067
+7652,St Kilda Road,Coventry Street,Dorcas Street,22092
+7654,St Kilda Road,Slater Street,Armadale Street,22474
+7658,St Kilda Road,Slater Street,Armadale Street,22474
+7677,Therry Street,Victoria Street,Elizabeth Street,21626
+7713,Capel Street,Courtney Street,Bedford Street,21118
+7730,Harcourt Street,Courtney Street,Flemington Road,21180
+7728,Flemington Road,Villiers Street,Harcourt Street,21182
+7752,Victoria Street,Capel Street,Howard Street,20951
+7799,Royal Parade,Bayles Street,Degraves Street,22605
+7802,Swanston Street,Elgin Street,College Crescent,20494
+7804,The Avenue,Ievers Street,The Avenue,22385
+7821,City Road,Kings Way,Clarke Street,22040
+7815,City Road,Power Street,Balston Street,22050
+7824,City Road,Southgate Avenue,Sturt Street,22066
+7825,Clarke Street,Haig Street,City Road,22019
+7827,Coventry Street,St Kilda Road,Wells Street,22103
+7831,Coventry Street,Dodds Street,Sturt Street,22117
+7826,Coventry Street,Wells Street,Dodds Street,22112
+7854,Kavanagh Street,Southbank Boulevard,Power Street,22077
+7882,St Kilda Road,Grant Street,Wadey Street,22700
+7880,Southgate Avenue,City Road,Riverside Avenue,22187
+7887,St Kilda Road,St Kilda Road,Anzac Avenue,22703
+7892,Sturt Street,Miles Street,Coventry Street,22118
+7908,Whiteman Street,Westgate Freeway,Clarendon Street,22008
+7947,La Trobe Street,King Street,Spencer Street,20030
+7950,Railway Place,Hawke Street,Abbotsford Street,21547
+7956,Rosslyn Street,Railway Place,Adderley Street,21490
+7009,Berkeley Street,Pelham Street,Grattan Street,20474
+7023,Leicester Street,Victoria Street,Berkeley Street,20453
+7050,Leicester Street,Berkeley Street,Queensberry Street,20455
+7079,MacArthur Place South,Canning Street,Rathdowne Street,20671
+7100,Queensberry Street,Drummond Street,Lygon Street,22498
+7213,Merchant Street,Bourke Street,Collins Street,23151
+7234,Albert Street,Clarendon Street,Eades Street,20898
+7250,Clarendon Street,Gipps Street,Grey Street,22622
+7263,Lansdowne Street,Wellington Parade,St Andrews Place,21859
+7270,Powlett Street,Grey Street,Albert Street,21863
+7278,St Andrews Place,Lansdowne Street,MacArthur Street,21855
+7280,St Andrews Place,Lansdowne Street,MacArthur Street,21855
+7289,Victoria Parade,Eades Street,Lansdowne Street,21595
+7304,Wellington Parade,Clarendon Street,Jolimont Road,21963
+7310,A'Beckett Street,Wills Street,William Street,22653
+7307,A'Beckett Street,Elizabeth Street,Queen Street,21649
+7343,Bourke Street,Spring Street,Exhibition Street,20065
+7352,Collins Street,King Street,Spencer Street,20120
+7368,Downie Street,Flinders Street,Flinders Lane,20431
+7392,Elizabeth Street,Queensberry Street,Pelham Street,21115
+7417,Flinders Lane,King Street,Spencer Street,20137
+7452,Flinders Street,Russell Street,Swanston Street,20212
+7494,La Trobe Street,Swanston Street,Elizabeth Street,20022
+7500,La Trobe Street,Queen Street,Wills Street,20026
+7543,Little Lonsdale Street,King Street,Spencer Street,20048
+7558,Lonsdale Street,Exhibition Street,Russell Street,20003
+7563,Little Lonsdale Street,Spring Street,Exhibition Street,20034
+7566,Lonsdale Street,Queen Street,William Street,20011
+7567,Lonsdale Street,Queen Street,William Street,20011
+7568,Lonsdale Street,Exhibition Street,Russell Street,20003
+7569,Lonsdale Street,Russell Street,Swanston Street,20005
+7572,Lonsdale Street,Spring Street,Exhibition Street,20001
+7570,Lonsdale Street,Spring Street,Exhibition Street,20001
+7574,Lonsdale Street,William Street,King Street,20013
+7589,Pelham Street,Berkeley Street,Elizabeth Street,22502
+7618,Queen Street,Therry Street,Victoria Street,23247
+7624,King Street,Little Lonsdale Street,La Trobe Street,20195
+7633,Russell Street,Little Bourke Street,Lonsdale Street,20151
+7635,Russell Street,Little Lonsdale Street,La Trobe Street,20153
+7659,Spring Street,Flinders Lane,Collins Street,20198
+7698,William Street,La Trobe Street,A'Beckett Street,21519
+7718,Peel Street,Queensberry Street,Elizabeth Street,21117
+7723,Curzon Street,Elm Street,Queensberry Street,20998
+7748,Queensberry Street,Leveson Street,Errol Street,20990
+7789,Ievers Street,Royal Parade,The Avenue,22384
+7814,Balston Street,Kavanagh Street,Southern Link Road,22053
+7834,Dodds Street,Coventry Street,Dorcas Street,22113
+7860,Miles Street,Dodds Street,Sturt Street,22108
+7870,Grant Street,Wells Street,Dodds Street,22824
+7893,Sturt Street,Sturt Street,Grant Street,22877
+7893,Sturt Street,Grant Street,Miles Street,22767
+7925,Dudley Street,Adderley Street,Spencer Street,21483
+7936,Jeffcott Street,Adderley Street,Spencer Street,21501
+7942,King Street,Jeffcott Street,Batman Street,21515
+7973,Stanley Street,King Street,Spencer Street,21429
+7988,William Street,Rosslyn Street,Victoria Street,21384
+7086,Pelham Street,Cardigan Street,Swanston Street,20806
+7126,Victoria Street,Lygon Street,Cardigan Street,21605
+7153,Royal Parade,Leonard Street,Walker Street,22435
+7133,Victoria Street,Rathdowne Street,Drummond Street,21601
+7158,Augusta Avenue,Pearl River Road,Wattle Road,23275
+7170,Bourke Street,Enterprize Way,Cumberland Street,22913
+7185,Collins Street,Navigation Drive,Merchant Street,22956
+7188,Collins Street,Bourke Street,Sailmaker Way,23314
+7203,Harbour Esplanade,McCrae Street,Collins Street,22954
+7206,Franklin Street,Elizabeth Street,Queen Street,21634
+7210,Little Docklands Drive,Footscray Road,Waterfront Way,23226
+7218,Spencer Street,Flinders Street,Flinders Lane,20067
+7222,Seafarer Lane,Bourke Street,Collins Street,23063
+7223,Siddeley Street,Spencer Street,Wurundjeri Way,22445
+7228,Village Street,Bourke Street,Collins Street,22941
+7235,Albert Street,Clarendon Street,Eades Street,20898
+7254,Gisborne Street,Cathedral Place,Albert Street,21849
+7265,Nicholson Street,Spring Street,Albert Street,21553
+7325,Birdwood Avenue,Dallas Brooks Drive,Anzac Avenue,22198
+7322,Birdwood Avenue,Dallas Brooks Drive,Anzac Avenue,22198
+7329,Bond Street,Flinders Street,Flinders Lane,20394
+7333,Little Collins Street,Elizabeth Street,Queen Street,20099
+7338,Bourke Street,Queen Street,William Street,20086
+7344,Collins Street,Queen Street,Market Street,20116
+7348,Bromby Street,Arnold Street,St Kilda Road,22199
+7348,Bromby Street,Domain Street,Adams Street,22203
+7353,Collins Street,William Street,King Street,20118
+7369,Dallas Brooks Drive,Domain Road,Birdwood Avenue,22469
+7413,Exhibition Street,Little Collins Street,Bourke Street,20141
+7438,Flinders Street,King Street,Spencer Street,20224
+7449,Franklin Street,Elizabeth Street,Queen Street,21634
+7459,Flinders Lane,Queen Street,Market Street,20131
+7443,Cardigan Street,Queensberry Street,Argyle Place South,20506
+7496,La Trobe Street,Exhibition Street,Russell Street,20018
+7507,Little Collins Street,Russell Street,Swanston Street,20095
+7513,Little Bourke Street,King Street,Spencer Street,20063
+7519,Little Bourke Street,Queen Street,William Street,20059
+7527,Little Collins Street,Queen Street,William Street,20101
+7556,Lonsdale Street,Exhibition Street,Russell Street,20003
+7546,Little Lonsdale Street,Queen Street,William Street,20044
+7573,Lonsdale Street,William Street,King Street,20013
+7585,Moubray Street,St Kilda Road,Punt Road,22311
+7586,Moubray Street,St Kilda Road,Punt Road,22311
+7628,Russell Street,Collins Street,Little Collins Street,20148
+7629,Russell Street,Flinders Street,Flinders Lane,20146
+7655,St Kilda Road,Commercial Road,Moubray Street,22477
+7667,St Kilda Road,Toorak Road,Slater Street,22472
+7700,William Street,Little Bourke Street,Lonsdale Street,20185
+7709,Blackwood Street,Flemington Road,Courtney Street,21122
+7706,Wills Street,La Trobe Street,A'Beckett Street,21521
+7720,Harcourt Street,Courtney Street,Flemington Road,21180
+7725,Errol Street,Victoria Street,Queensberry Street,20992
+7727,Flemington Road,Elizabeth Street,Blackwood Street,22686
+7734,Leveson Street,Queensberry Street,Arden Street,21096
+7747,Queensberry Street,Cobden Street,Peel Street,20925
+7775,Cemetery Road West,Royal Parade,College Crescent,22375
+7751,Queensberry Street,Elizabeth Street,O'Connell Street,20923
+7778,College Crescent,Swanston Street,Princes Park Drive,22373
+7781,Flemington Road,Flemington Road,Dryburgh Street,20920
+7797,Royal Parade,Morrah Street,Story Street,22608
+7799,Royal Parade,Bayles Street,Morrah Street,22363
+7801,City Road,Clarke Street,Clarendon Street,22020
+7816,City Road,Southgate Avenue,Southbank Boulevard,22063
+7844,Dodds Street,Miles Street,Grant Street,22462
+7847,Grant Street,Dodds Street,Sturt Street,22826
+7848,Haig Street,Clarendon Street,Westgate Freeway,22010
+7850,Haig Street,Clarendon Street,Clarke Street,22018
+7853,Fawkner Street,Southbank Boulevard,Fanning Street,22069
+7859,Miles Street,Sturt Street,Moore Street,22120
+7879,Lorimer Street,Westgate Freeway,Hartley Street,22126
+7885,St Kilda Road,Grant Street,Wadey Street,22700
+7894,Sturt Street,Grant Street,Miles Street,22767
+7907,Whiteman Street,Westgate Freeway,Clarendon Street,22008
+7912,Toorak Road,Millswyn Street,Park Street,22215
+7913,Adderley Street,Jeffcott Street,Batman Street,21503
+7916,Adderley Street,La Trobe Street,Jeffcott Street,21504
+7927,Lonsdale Street,Exhibition Street,Russell Street,20003
+7950,Railway Place,Roden Street,Hawke Street,21545
+7963,Rosslyn Street,Howard Street,King Street,21388
+7950,Railway Place,Stanley Street,Roden Street,21543
+7968,Spencer Street,La Trobe Street,Jeffcott Street,21506
+7975,Stanley Street,King Street,Spencer Street,21429
+7995,William Street,Capel Street,Rosslyn Street,21385
+7003,Barry Street,Leicester Street,Pelham Street,20476
+7015,Bouverie Street,Pelham Street,Lincoln Square North,22504
+7018,Bouverie Street,Lincoln Square South,Pelham Street,22503
+7048,Grattan Street,Lygon Street,Cardigan Street,20757
+7062,Lincoln Square South,Swanston Street,Bouverie Street,20838
+7083,Pelham Street,Berkeley Street,Barry Street,20477
+7097,Queensberry Street,Drummond Street,Lygon Street,22498
+7109,Queensberry Street,Swanston Street,Bouverie Street,20829
+7146,Lygon Street,Princes Street,MacPherson Street,22508
+7229,Village Street,Collins Street,McCrae Street,22894
+7236,Albert Street,Morrison Place,Lansdowne Street,20891
+7258,Lansdowne Street,Cathedral Place,Albert Street,21850
+7260,Lansdowne Street,Albert Street,Victoria Parade,20896
+7284,Victoria Parade,Nicholson Street,Gisborne Street,21560
+7300,Wellington Parade South,Wellington Crescent,Flinders Street,22630
+7330,PT5354,Boathouse Drive,,22883
+7001,Argyle Place North,Lygon Street,Cardigan Street,20752
+7015,Bouverie Street,Lincoln Square South,Pelham Street,22503
+7027,Bouverie Street,Victoria Street,Queensberry Street,20462
+7041,Cardigan Street,Queensberry Street,Argyle Place South,20506
+7056,Leicester Street,Queensberry Street,Pelham Street,20458
+7087,Pelham Street,Cardigan Street,Swanston Street,20806
+7092,Pelham Street,Rathdowne Street,Drummond Street,21556
+7114,Rathdowne Street,Pelham Street,Grattan Street,20558
+7147,Lygon Street,Princes Street,MacPherson Street,22508
+7149,Princes Park Drive,Cemetery Road West,MacPherson Street,22512
+7142,Cemetery Road East,College Crescent,Lygon Street,20773
+7153,Royal Parade,Royal Parade,Leonard Street,22433
+7192,Docklands Drive,Pearl River Road,Docklands Drive,23256
+7193,Doepel Way,Docklands Drive,Newquay Promenade,22855
+7208,Karlsruhe Lane,Collins Street,Keera Way,23246
+7217,Pearl River Road,Docklands Drive,Victoria Harbour,22908
+7225,Spencer Street,Lonsdale Street,Little Lonsdale Street,20077
+7226,Saint Mangos Lane North,Docklands Drive,,23267
+7233,Wattle Road,Docklands Drive,Newquay Promenade,23274
+7264,Lansdowne Street,Wellington Parade,St Andrews Place,21859
+7310,A'Beckett Street,Wills Street,Queen Street,21524
+7331,Bond Street,Flinders Street,Flinders Lane,20394
+7337,Bourke Street,Elizabeth Street,Queen Street,20084
+7359,Collins Street,Russell Street,Swanston Street,20110
+7371,Domain Road,Domain Street,Hope Street,22225
+7391,Elizabeth Street,Lonsdale Street,Little Lonsdale Street,20168
+7402,Exhibition Street,Flinders Lane,Collins Street,20139
+7411,Exhibition Street,Bourke Street,Little Bourke Street,20142
+7412,Flinders Lane,Exhibition Street,Russell Street,20123
+7415,Flinders Lane,Elizabeth Street,Queen Street,20129
+7416,Flinders Lane,Elizabeth Street,Queen Street,20129
+7418,Flinders Lane,King Street,Spencer Street,20137
+7450,Flinders Lane,Swanston Street,Elizabeth Street,20127
+7458,Flinders Lane,Queen Street,Market Street,20131
+7479,King Street,Flinders Street,Flinders Lane,20188
+7486,King Street,Little Collins Street,Bourke Street,20191
+7487,King Street,Collins Street,Little Collins Street,20190
+7493,La Trobe Street,Elizabeth Street,Queen Street,20024
+7502,La Trobe Street,Russell Street,Swanston Street,20020
+7517,Little Bourke Street,King Street,Spencer Street,20063
+7533,Little Collins Street,Spring Street,Exhibition Street,20091
+7544,Little Lonsdale Street,Elizabeth Street,Queen Street,20042
+7552,Little Lonsdale Street,William Street,King Street,20046
+7612,Queen Street,Little Bourke Street,Lonsdale Street,20175
+7631,Russell Street,Flinders Street,Flinders Lane,20146
+7645,Spring Street,Collins Street,Little Collins Street,20200
+7646,Spencer Street,Little Collins Street,Bourke Street,20073
+7672,Spring Street,Lonsdale Street,Little Lonsdale Street,21848
+7681,Victoria Street,Drummond Street,Lygon Street,21603
+7679,Victoria Street,Elizabeth Street,O'Connell Street,22670
+7695,William Street,Flinders Lane,Collins Street,20181
+7724,Curzon Street,Elm Street,Queensberry Street,20998
+7732,Cobden Street,Princess Street,Queensberry Street,20939
+7739,Leveson Street,Victoria Street,Queensberry Street,20980
+7781,Flemington Road,Melrose Street,Dryburgh Street,22425
+7805,The Avenue,Leonard Street,Walker Street,22380
+7809,Walker Street,Royal Parade,The Avenue,22382
+7818,City Road,Balston Street,Kings Way,22048
+7822,City Road,Southgate Avenue,Southbank Boulevard,22063
+7829,Coventry Street,Dodds Street,Sturt Street,22117
+7851,Kavanagh Street,Power Street,Balston Street,22051
+7852,Kavanagh Street,Balston Street,Kings Way,22045
+7856,Kavanagh Street,Sturt Street,Southbank Boulevard,22070
+7862,Miles Street,Wells Street,Dodds Street,22107
+7867,Moore Street,Southbank Boulevard,Southern Link Road,22078
+7878,Wells Street,Miles Street,Coventry Street,22105
+7886,St Kilda Road,Southbank Boulevard,Grant Street,22466
+7906,Wadey Street,St Kilda Road,Wells Street,22090
+7927,Dudley Street,King Street,Spencer Street,21413
+7938,Jeffcott Street,Spencer Street,King Street,21514
+7950,Railway Place,Railway Place,Hawke Street,21546
+7966,Howard Street,Rosslyn Street,William Street,21382
+7982,Victoria Street,Leveson Street,Errol Street,20983
+7985,Walsh Street,Milton Street,King Street,21405
+7987,William Street,Dudley Street,Walsh Street,21404
+7993,William Street,Capel Street,Rosslyn Street,21385
+7993,William Street,Rosslyn Street,Victoria Street,21384
+7996,William Street,Capel Street,Rosslyn Street,21385
+7000,Poplar Road,Upfield Railway,Kendall Avenue,22405
+7031,Cardigan Street,Argyle Place North,Grattan Street,20512
+7068,Lygon Street,Faraday Street,Elgin Street,20534
+7067,Lygon Street,Pelham Street,Argyle Place North,20528
+7118,Swanston Street,Lincoln Square North,Grattan Street,20488
+7143,Garton Street,MacPherson Street,Bowen Crescent,22511
+7150,Royal Parade,Ievers Street,Walker Street,22387
+7148,Park Street,Royal Parade,Bowen Crescent,22395
+7171,Bourke Street,Harbour Esplanade,Enterprize Way,22801
+7175,Navigation Drive,Collins Street,Harbour Esplanade,23236
+7236,Albert Street,Gisborne Street,Morrison Place,22619
+7247,Cathedral Place,Lansdowne Street,Gisborne Street,21851
+7250,Clarendon Street,Wellington Parade,George Street,21937
+7261,Pearl River Road,Footscray Road,Docklands Drive,23224
+7327,Birdwood Avenue,Dallas Brooks Drive,Domain Road,22706
+7340,Bourke Street,William Street,King Street,20088
+7351,Collins Street,Elizabeth Street,Queen Street,20114
+7383,Elizabeth Street,Franklin Street,Therry Street,21631
+7411,Exhibition Street,Little Collins Street,Bourke Street,20141
+7446,Flinders Street,Exhibition Street,Russell Street,20210
+7513,Linlithgow Avenue,St Kilda Road,Government House Drive,22089
+7499,La Trobe Street,Exhibition Street,Russell Street,20018
+7501,La Trobe Street,Russell Street,Swanston Street,20020
+7510,Little Bourke Street,Russell Street,Swanston Street,20053
+7512,Little Collins Street,Spring Street,Exhibition Street,20091
+7545,Little Lonsdale Street,Queen Street,William Street,20044
+7598,Queen Street,Flinders Street,Flinders Lane,20170
+7652,St Kilda Road,Anzac Avenue,Coventry Street,22704
+7656,St Kilda Road,Armadale Street,Commercial Road,22476
+7665,St Kilda Road,Commercial Road,Moubray Street,22477
+7685,Victoria Street,Rathdowne Street,Drummond Street,21601
+7687,Victoria Street,La Trobe Street,Rathdowne Street,21599
+7708,Blackwood Street,Flemington Road,Courtney Street,21122
+7707,Bedford Street,Courtney Street,Peel Street,21120
+7721,Cobden Street,Victoria Street,Princess Street,20931
+7722,Curzon Street,Elm Street,Queensberry Street,20998
+7726,Flemington Road,Blackwood Street,Wreckyn Street,21123
+7744,Queensberry Street,Cobden Street,Peel Street,20925
+7776,Royal Parade,Gatehouse Street,Degraves Street,22607
+7796,Royal Parade,Grattan Street,Story Street,22514
+7797,Royal Parade,Morrah Street,Royal Parade,22603
+7818,City Road,Power Street,Balston Street,22050
+7841,Dorcas Street,Wells Street,Dodds Street,22096
+7898,Wells Street,Grant Street,Miles Street,22106
+7909,Alexandra Avenue,Punt Road,Walsh Street,22276
+7918,Batman Street,Spencer Street,King Street,21516
+7922,Capel Street,William Street,Victoria Street,21392
+7950,Railway Place,Abbotsford Street,Adderley Street,21549
+7961,Rosslyn Street,William Street,Howard Street,21387
+7036,Cardigan Street,Grattan Street,Faraday Street,20514
+7053,Kay Street,Canning Street,Rathdowne Street,20573
+7082,Nicholson Street,Victoria Street,Carlton Street,22501
+7088,Pelham Street,Cardigan Street,Swanston Street,20806
+7089,Pelham Street,Drummond Street,Lygon Street,21557
+7122,Swanston Street,Victoria Street,Queensberry Street,20482
+7152,Royal Parade,Ievers Street,Park Street,22393
+7205,Harbour Esplanade,Bourke Street,La Trobe Street,22452
+7259,Lansdowne Street,St Andrews Place,Cathedral Place,21857
+7288,Victoria Parade,Morrison Place,Lansdowne Street,21566
+7300,Wellington Parade South,Jolimont Road,Wellington Crescent,21968
+7302,Jolimont Terrace,Wellington Parade South,Jolimont Street,21982
+7332,Bourke Street,Elizabeth Street,Queen Street,20084
+7335,Bourke Street,King Street,Spencer Street,20090
+7332,Little Collins Street,Elizabeth Street,Queen Street,20099
+7357,Collins Street,King Street,Spencer Street,20120
+7466,Government House Drive,St Kilda Road,Birdwood Avenue,22196
+7474,King Street,Flinders Lane,Collins Street,20189
+7548,Little Lonsdale Street,Spring Street,Exhibition Street,20034
+7577,Lonsdale Street,William Street,King Street,20013
+7579,Bourke Street,Spring Street,Exhibition Street,20065
+7622,King Street,Lonsdale Street,Little Lonsdale Street,20194
+7637,Russell Street,Flinders Lane,Collins Street,20147
+7686,Spencer Street,Flinders Lane,Collins Street,20069
+7741,Leveson Street,Victoria Street,Queensberry Street,20980
+7776,Royal Parade,Bayles Street,Degraves Street,22605
+7784,Flemington Road,Villiers Street,Harcourt Street,21182
+7786,Gatehouse Street,Flemington Road,Story Street,22337
+7785,Flemington Road,Flemington Road,Murphy Street,22689
+7883,St Kilda Road,Anzac Avenue,Coventry Street,22704
+7888,Sturt Street,Grant Street,Miles Street,22767
+7903,Wells Street,Grant Street,Miles Street,22106
+7919,Batman Street,Adderley Street,Spencer Street,21494
+7932,Dudley Street,William Street,Milton Street,22656
+7962,Rosslyn Street,King Street,Spencer Street,21421
+7971,Spencer Street,Jeffcott Street,Batman Street,21499
+7990,William Street,La Trobe Street,A'Beckett Street,21519
+7010,Berkeley Street,Leicester Street,Queensberry Street,20456
+7014,Bouverie Street,Lincoln Square North,Grattan Street,20468
+7019,Bouverie Street,Victoria Street,Queensberry Street,20462
+7020,Bouverie Street,Queensberry Street,Lincoln Square South,20464
+7033,Cardigan Street,Argyle Place South,Pelham Street,20508
+7057,Leicester Street,Queensberry Street,Pelham Street,20458
+7061,Lincoln Square North,Swanston Street,Bouverie Street,20839
+7076,Lygon Street,Victoria Street,Queensberry Street,20522
+7077,Lytton Street,Lygon Street,Cardigan Street,20771
+7123,Swanston Street,Queensberry Street,Lincoln Square South,20484
+7127,Victoria Street,Drummond Street,Lygon Street,21603
+7000,Elliott Avenue,MacArthur Road,Kendall Avenue,22429
+7012,Berkeley Street,Queensberry Street,Pelham Street,20472
+7116,Rathdowne Street,Victoria Street,Queensberry Street,20554
+7160,Saint Mangos Lane,Docklands Drive,Caravel Lane,22779
+7188,Collins Street,Sailmaker Way,North Wharf Road,23378
+7197,Geographe Street,Bourke Street,Keera Way,23032
+7252,Eades Street,Victoria Parade,Albert Street,20897
+7249,Spencer Street,Spencer Street Bridge,Flinders Street,22174
+7262,Lansdowne Street,Lansdowne Street,St Andrews Place,21858
+7285,Victoria Parade,Hoddle Street,Simpson Street,22000
+7314,Elizabeth Street,Franklin Street,Therry Street,21631
+7354,Collins Street,King Street,Spencer Street,20120
+7373,Collins Street,William Street,King Street,20118
+7387,Elizabeth Street,A'Beckett Street,Franklin Street,21639
+7393,Elizabeth Street,Queensberry Street,Pelham Street,21115
+7451,Flinders Street,Russell Street,Swanston Street,20212
+7471,King Street,Bourke Street,Little Bourke Street,20192
+7497,La Trobe Street,Exhibition Street,Russell Street,20018
+7505,Little Bourke Street,Russell Street,Swanston Street,20053
+7509,La Trobe Street,Victoria Street,Exhibition Street,20016
+7534,Little Collins Street,William Street,King Street,20103
+7521,Little Bourke Street,William Street,King Street,20061
+7560,Little Lonsdale Street,Exhibition Street,Russell Street,20036
+7592,Queen Street,Flinders Street,Flinders Lane,20170
+7610,Queen Street,Lonsdale Street,Little Lonsdale Street,20176
+7627,Russell Street,Little Lonsdale Street,La Trobe Street,20153
+7642,Spencer Street,Bourke Street,Little Bourke Street,20075
+7644,Spencer Street,Little Collins Street,Bourke Street,20073
+7650,St Kilda Road,Yarra River,Southbank Boulevard,22087
+7668,St Kilda Road,Toorak Road,Slater Street,22472
+7692,William Street,Flinders Lane,Collins Street,20181
+7729,Harcourt Street,Courtney Street,Flemington Road,21180
+7731,Howard Street,Victoria Street,Queensberry Street,20956
+7756,Villiers Street,Flemington Road,Courtney Street,21141
+7782,Flemington Road,Racecourse Road,Melrose Street,22590
+7785,Flemington Road,Harcourt Street,Murphy Street,22690
+7808,The Avenue,Walker Street,Ievers Street,22388
+7804,The Avenue,Walker Street,Ievers Street,22388
+7817,City Road,Clarke Street,Clarendon Street,22020
+7823,City Road,Southgate Avenue,Sturt Street,22066
+7842,Dorcas Street,Dodds Street,Kings Way,22460
+7845,Dorcas Street,Wells Street,Dodds Street,22096
+7873,Riverside Quay,Southbank Boulevard,Cook Street,22567
+7884,St Kilda Road,Coventry Street,Dorcas Street,22092
+7909,Alexandra Avenue,Anderson Street,Walsh Street,22278
+7929,Dudley Street,King Street,Spencer Street,21413
+7937,Jeffcott Street,Spencer Street,King Street,21514
+7002,Barry Street,Leicester Street,Pelham Street,20476
+7020,Bouverie Street,Lincoln Square South,Pelham Street,22503
+7025,Bouverie Street,Victoria Street,Queensberry Street,20462
+7033,Cardigan Street,Cardigan Street,Pelham Street,20510
+7033,Cardigan Street,Pelham Street,Argyle Place North,20509
+7084,Pelham Street,Bouverie Street,Leicester Street,20873
+7085,Pelham Street,Drummond Street,Lygon Street,21557
+7103,Queensberry Street,Bouverie Street,Leicester Street,20868
+7107,Queensberry Street,Rathdowne Street,Drummond Street,22497
+7112,Rathdowne Street,Pelham Street,Grattan Street,20558
+7137,Bowen Crescent,Garton Street,Park Street,22396
+7183,Collins Street,Spencer Street,Batmans Hill Drive,22819
+7221,Point Park Crescent,Lorimer Street,South Wharf Drive,22951
+7256,Lansdowne Street,St Andrews Place,Cathedral Place,21857
+7271,Simpson Street,Grey Street,Albert Street,21867
+7317,Alexandra Avenue,Swan Street Bridge,Anderson Street,22492
+7323,Birdwood Avenue,Dallas Brooks Drive,Domain Road,22706
+7336,Bourke Street,William Street,King Street,20088
+7374,Collins Street,William Street,King Street,20118
+7388,Elizabeth Street,La Trobe Street,Little La Trobe Street,21647
+7446,Flinders Lane,Exhibition Street,Russell Street,20123
+7481,King Street,Little Bourke Street,Lonsdale Street,20193
+7498,La Trobe Street,King Street,Spencer Street,20030
+7500,La Trobe Street,Wills Street,William Street,22615
+7531,Little Collins Street,King Street,Spencer Street,20105
+7553,Lonsdale Street,Elizabeth Street,Queen Street,20009
+7581,Moubray Street,St Kilda Road,Punt Road,22311
+7609,Queen Street,Little Lonsdale Street,La Trobe Street,20177
+7611,Queen Street,Lonsdale Street,Little Lonsdale Street,20176
+7626,Russell Street,Bourke Street,Little Bourke Street,20150
+7766,Wreckyn Street,Flemington Road,Courtney Street,21124
+7790,Leonard Street,Royal Parade,The Avenue,22378
+7813,Balston Street,City Road,Kavanagh Street,22046
+7812,City Road,Kings Way,Clarke Street,22040
+7820,City Road,Kings Way,Clarke Street,22040
+7836,Dodds Street,Miles Street,Coventry Street,22110
+7843,Dorcas Street,St Kilda Road,Wells Street,22094
+7863,Moore Street,Miles Street,Kings Way,22461
+7871,Queens Bridge Street,Power Street,Kings Way,22182
+7881,Wells Street,Miles Street,Coventry Street,22105
+7905,Whiteman Street,Westgate Freeway,Clarendon Street,22008
+7910,Commercial Road,St Kilda Road,Punt Road,22308
+7932,Dudley Street,Milton Street,King Street,21411
+7939,King Street,Batman Street,Dudley Street,21518
+7008,Berkeley Street,Queensberry Street,Pelham Street,20472
+7031,Cardigan Street,Argyle Place South,Pelham Street,20508
+7050,Leicester Street,Victoria Street,Berkeley Street,20453
+7102,Queensberry Street,Bouverie Street,Leicester Street,20868
+7105,Queensberry Street,Elizabeth Street,O'Connell Street,20923
+7138,Bowen Crescent,Garton Street,Park Street,22396
+7145,Princes Park Drive,Cemetery Road West,MacPherson Street,22512
+7161,Aurora Lane,Collins Street,Wurundjeri Way,22899
+7163,Batmans Hill Drive,Bourke Street,Collins Street,22802
+7165,Bourke Street,Wurundjeri Way,Harbour Esplanade,22553
+7189,Collins Street,Swanston Street,Elizabeth Street,20112
+7212,Merchant Street,Bourke Street,Victoria Harbour Promenade,22915
+7230,Village Street,Collins Street,McCrae Street,22894
+7240,La Trobe Street,Wurundjeri Way,Harbour Esplanade,22549
+7243,Clarendon Street,Grey Street,Albert Street,21860
+7254,Gisborne Street,Gisborne Street,Cathedral Place,21853
+7253,Gisborne Street,Cathedral Place,Albert Street,21849
+7258,Lansdowne Street,Lansdowne Street,Cathedral Place,22491
+7297,Victoria Parade,Nicholson Street,Spring Street,21596
+7305,Wellington Parade South,Jolimont Terrace,Charles Street,22634
+7320,Bourke Street,Exhibition Street,Russell Street,20078
+7348,Bromby Street,Adams Street,Arnold Street,22201
+7356,Collins Street,Russell Street,Swanston Street,20110
+7362,Collins Street,William Street,King Street,20118
+7372,Domain Road,St Kilda Road,Dallas Brooks Drive,22708
+7384,Elizabeth Street,A'Beckett Street,Franklin Street,21639
+7388,Elizabeth Street,Little La Trobe Street,A'Beckett Street,22651
+7396,Exhibition Street,Bourke Street,Little Bourke Street,20142
+7436,Flinders Street,Exhibition Street,Russell Street,20210
+7448,Franklin Street,Elizabeth Street,Queen Street,21634
+7465,Franklin Street,Queen Street,William Street,21527
+7445,Francis Street,King Street,Spencer Street,20433
+7455,Flinders Lane,Market Street,William Street,20133
+7457,Flinders Lane,Market Street,William Street,20133
+7515,Little Bourke Street,Elizabeth Street,Queen Street,20057
+7523,Little Collins Street,Elizabeth Street,Queen Street,20099
+7551,Lonsdale Street,Elizabeth Street,Queen Street,20009
+7537,Little Collins Street,King Street,Spencer Street,20105
+7546,Little Lonsdale Street,Elizabeth Street,Queen Street,20042
+7557,Lonsdale Street,Russell Street,Swanston Street,20005
+7571,Lonsdale Street,William Street,King Street,20013
+7601,Queen Street,Franklin Street,Therry Street,21630
+7608,Queen Street,Little Collins Street,Bourke Street,20173
+7630,Russell Street,Flinders Street,Flinders Lane,20146
+7639,Russell Street,Lonsdale Street,Little Lonsdale Street,20152
+7640,Russell Street,Lonsdale Street,Little Lonsdale Street,20152
+7643,Spencer Street,Flinders Lane,Collins Street,20069
+7647,Spring Street,Little Bourke Street,Lonsdale Street,20206
+7653,St Kilda Road,Armadale Street,Commercial Road,22476
+7662,St Kilda Road,Moubray Street,High Street,22478
+7660,Spring Street,Collins Street,Little Collins Street,20200
+7674,Russell Street,Collins Street,Little Collins Street,20148
+7678,Victoria Street,Bouverie Street,Elizabeth Street,21625
+7716,Cobden Street,Victoria Street,Princess Street,20931
+7721,Cobden Street,Princess Street,Queensberry Street,20939
+7746,Queensberry Street,Capel Street,Howard Street,20950
+7757,Villiers Street,Flemington Road,Courtney Street,21141
+7761,Wreckyn Street,Flemington Road,Courtney Street,21124
+7781,Flemington Road,Brougham Street,Curran Street,21251
+7800,Royal Parade,Grattan Street,Story Street,22514
+7806,The Avenue,Leonard Street,MacArthur Road,22436
+7828,Coventry Street,St Kilda Road,Wells Street,22103
+7833,Coventry Street,Wells Street,Dodds Street,22112
+7837,Dodds Street,Miles Street,Grant Street,22462
+7849,Haig Street,Clarendon Street,Westgate Freeway,22010
+7855,Kavanagh Street,Sturt Street,Southbank Boulevard,22070
+7876,St Kilda Road,Grant Street,Wadey Street,22700
+7868,Queens Bridge Street,Power Street,Kings Way,22182
+7896,Sturt Street,Miles Street,Coventry Street,22118
+7900,Wells Street,Coventry Street,Dorcas Street,22098
+7941,King Street,Jeffcott Street,Batman Street,21515
+7970,Spencer Street,La Trobe Street,Jeffcott Street,21506
+7981,Victoria Street,Leveson Street,Errol Street,20983
+7992,William Street,Rosslyn Street,Victoria Street,21384
