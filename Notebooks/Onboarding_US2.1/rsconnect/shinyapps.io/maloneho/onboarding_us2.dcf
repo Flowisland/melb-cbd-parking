@@ -1,0 +1,12 @@
+name: onboarding_us2
+title:
+username: maloneho
+account: maloneho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15168571
+bundleId: 10744993
+url: https://maloneho.shinyapps.io/onboarding_us2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
